@@ -4,5 +4,7 @@ Dashboard de **Dados de ocorrências aeronáuticas da aviação civil brasileira
 
 
 
-https://github.com/JaqueUPF/DataScience/assets/111218278/b52c4dc8-1b77-441f-905d-1b984fbabc09
+
+
+https://github.com/JaqueUPF/DataScience/assets/111218278/8226d79c-7bb2-4b2c-a562-5cabac528ad0
 
